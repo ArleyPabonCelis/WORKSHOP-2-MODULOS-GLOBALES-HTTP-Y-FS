@@ -1,0 +1,7 @@
+Nuevo Cliente Agregado Satisfactoriamente
+
+
+
+
+Este es el archivo que se creo gracias al modulo global fs (Actividad 7).
+Revisar lineas 147-153 de server_w2.js

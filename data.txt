@@ -1,0 +1,6 @@
+Información de la empresa = Nombre: ARTEMIS LANDS; Telefono: 312 390 9829; Direccion: Edificio Zenit, Piso 6, Zona Franca, Floridablanca, Santander; Co-fundador: Andres Lizarazo Mendoza; Co-fundador: Diego Toloza 
+
+
+Este es el archivo que se creo gracias al modulo global fs (Actividad 8).
+Revisar lineas 52-58 de server_w2.js
+OJO: Se hizo un cambio en la linea 22, cambiando la etiqueta <a> por un <form> y dentro un <button>

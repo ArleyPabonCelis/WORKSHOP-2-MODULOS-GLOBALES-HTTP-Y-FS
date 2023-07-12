@@ -1,0 +1,21 @@
+TALLER 1 - NODE JS - MODULO GLOBAL HTTP
+
+Objetivo: Crear un servidor web sin framework utilizando el modulo global http.
+
+Actividades:
+
+1. Crear un Node.js Server (on port 8000).
+
+2. Manejar 8 rutas: "/", "/users", "/categories", "/products", "/employees", "/customers", "/sales", "/shopping".
+
+3. Retomar los datos de la empresa de ventas ventartemis en "/".
+
+4. Retomar una lista de usuarios en una lista html con viñetas o numeración.
+
+5. Retomar una tabla de las categorias de empresa ventartemis.
+
+6. Añadir un formulario con un cliente a página home "/customers" y hacer submit POST solicitud "/create-customers" con click al boton.
+
+7. Incluir un archivo de txt cuando haya una request a la ruta "/customers", el servidor va a constestar una vez se pulse en el boton clic de ese formulario.
+
+8. Incluir un archivo de txt cuando haya una request a la ruta "/", haciendo que el archivo tenga algun contenido de venta artemis
